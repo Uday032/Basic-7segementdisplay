@@ -9,6 +9,7 @@ using leds and arudino to make the 7segment display
  stuffs can be get from
  arduino : amazon.com.
  leds : nearby electricalshops(for indians use lighting(laddi) decoration leds for the project ;} ).
- arduino ide : google...
+ arduino ide : google....
+ 
   
  
